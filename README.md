@@ -1,1 +1,1 @@
-# odin-recipes
+This project implements the basics of html, with the goal of creating a website consisting of an index page with links to a few recipes.
